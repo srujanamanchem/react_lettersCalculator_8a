@@ -19,7 +19,7 @@ class LettersCalculator extends Component {
         <div className="cal-container">
           <div className="letters-calculator">
             <h1 className="heading">Calculate the Letters you Enter</h1>
-            <label className="phrase-text" for="enterPhrase">
+            <label className="phrase-text" htmlFor="enterPhrase">
               Enter the phrase
             </label>
             <input
